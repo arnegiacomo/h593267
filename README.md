@@ -2,4 +2,5 @@
 - 🇳🇴 / 🇮🇹 2000.10.17 Bergen / Norway
 - 👀 Software dev / gaming / tech / lifting
 - 🌱 Studying computer science at HVL https://www.hvl.no/
-- 📫 arnegiacomo@gmail.com
+- 📫 arnegiacomo@gmail.com 
+- 👾 Arnegutten#4357
