@@ -4,4 +4,4 @@
 - 🌱 Studying computer science at HVL https://www.hvl.no/
 - 📫 arnegiacomo@gmail.com 
 - 🐣 https://twitter.com/ArneMuntheKaas
-- - 👾 Arnegutten#4357
+- 👾 Arnegutten#4357
