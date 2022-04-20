@@ -1,7 +1,6 @@
 - 👋 Arne Giacomo Munthe-Kaas
 - 🇳🇴 / 🇮🇹 2000.10.17 Bergen / Norway
 - 👀 Software dev / Gaming / Tech / Lifting
-- 🌱 Studying computer science at HVL https://www.hvl.no/
-- 📫 arnegiacomo@gmail.com 
-- 🐣 https://twitter.com/ArneMuntheKaas
-- 👾 Arnegutten#4357
+- 🌱 Studying computer science at HVL Bergen
+- 📫 Email: arnegiacomo@gmail.com 
+- 👾 Discord: Arnegutten#4357
