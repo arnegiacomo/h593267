@@ -2,5 +2,6 @@
 - 🇳🇴 / 🇮🇹 2000.10.17 Bergen / Norway
 - 👀 Software dev / Gaming / Tech / Lifting
 - 🌱 Studying computer science at HVL Bergen
+- 🏢 Software Developer at Stacc Insight 
 - 📫 Email: arnegiacomo@gmail.com 
 - 👾 Discord: Arnegutten#4357
