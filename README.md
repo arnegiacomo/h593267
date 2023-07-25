@@ -1,7 +1,7 @@
 - 👋 Arne Giacomo Munthe-Kaas
 - 🇳🇴 / 🇮🇹 2000.10.17 Bergen / Norway
 - 👀 Software dev / Gaming / Tech / Lifting
-- 🌱 Studying computer science at HVL Bergen
+- 🌱 CS BA
 - 🏢 Software Developer at Stacc Insight 
 - 📫 Email: arnegiacomo@gmail.com 
 - 👾 Discord: Arnegutten#4357
